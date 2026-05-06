@@ -14,7 +14,7 @@
     <SolidColorBrush x:Key="FontColor"
                      Color="#F8F8F8" />
     <SolidColorBrush x:Key="ControlBackground"
-                     Color="#454545" />
+                     Color="#c7b1ec" />
     <SolidColorBrush x:Key="ControlHighlight"
                      Color="#707070" />
     <SolidColorBrush x:Key="ControlPressed"
